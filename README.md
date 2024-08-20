@@ -1,2 +1,5 @@
 # primer-repositorio
-primer repo crado en git hub
+primer repo creado en git hub
+
+## descripcion
+esto es un commit de prueba
