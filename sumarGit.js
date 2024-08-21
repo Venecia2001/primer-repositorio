@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-let nombre = "Edmundo"
-let apellido = "Gonzales"
-=======
-let nombre = "Jhaon"
-let apellido = "gastiar"
->>>>>>> ramita
+let nombre = "Edmonto"
+let apellido = "Gonzales Urrutia"
 let PosPolitica = "Derecha"
 
 function MostrarDatos(){
@@ -17,8 +12,5 @@ function MostrarDatos(){
     }
 }
 
-<<<<<<< HEAD
 let variable = "7.300.000 millones por el pecho"
-=======
->>>>>>> ramita
 console.log(MostrarDatos)
