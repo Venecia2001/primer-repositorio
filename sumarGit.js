@@ -1,5 +1,5 @@
-let nombre = "Edmonto"
-let apellido = "Gonzales Urrutia"
+let nombre = "nico"
+let apellido = "wilian"
 let PosPolitica = "Derecha"
 
 function MostrarDatos(){
