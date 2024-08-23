@@ -1,4 +1,4 @@
-let nombre = "nico"
+let nombre = "PEPE"
 let apellido = "wilian"
 let PosPolitica = "Derecha"
 
