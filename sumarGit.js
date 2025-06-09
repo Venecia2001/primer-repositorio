@@ -1,4 +1,4 @@
-let nombre = "PEPE";
+let nombre = "Jhoan manuel";
 let apellido = "Barrios";
 let PosPolitica = "Ultra derecha";
 
